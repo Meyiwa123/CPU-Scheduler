@@ -1,5 +1,5 @@
 # CPU Scheduling Visualizer
-![CPU Scheduling Visualizer](https://github.com/Meyiwa123/CPU-Scheduler/public/logo.png)
+![CPU Scheduling Visualizer](https://github.com/Meyiwa123/CPU-Scheduler/blob/1957b56e9ab9eb57a1940aab268a1d46f3212f4c/public/logo.png)
 
 An interactive web application for visualizing and understanding CPU scheduling algorithms used in operating systems. This educational tool helps students and professionals learn how different scheduling algorithms work and how they affect system performance metrics.
 
@@ -39,6 +39,8 @@ An interactive web application for visualizing and understanding CPU scheduling 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 ## 📖 How to Use
+![CPU Scheduling Visualizer](https://github.com/Meyiwa123/CPU-Scheduler/blob/1957b56e9ab9eb57a1940aab268a1d46f3212f4c/public/scheduler.png)
+
 ### Creating Processes
 1. Select a scheduling algorithm from the dropdown menu
 2. Enter process parameters (arrival time, burst time, priority if applicable)
