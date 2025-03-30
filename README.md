@@ -39,7 +39,7 @@ An interactive web application for visualizing and understanding CPU scheduling 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
 
 ## 📖 How to Use
-![CPU Scheduling Visualizer](https://github.com/Meyiwa123/CPU-Scheduler/blob/1957b56e9ab9eb57a1940aab268a1d46f3212f4c/public/scheduler.png)
+![CPU Scheduling Visualizer](https://github.com/Meyiwa123/CPU-Scheduler/blob/3b1b25ee98fa18178ff8cbbc86a4c5f0e76b34bc/public/scheduler.png)
 
 ### Creating Processes
 1. Select a scheduling algorithm from the dropdown menu
